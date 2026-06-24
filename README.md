@@ -1,4 +1,5 @@
-# Hi, I'm Navy 👋
+Hi, I'm Navy!
+
 I'm a financial engineering and international commerce undergraduate student based in Korea.
 My interests are in quantitative finance — FX derivatives, currency markets, cross-border capital flows,
 and the quantitative side of trading and derivatives pricing.
