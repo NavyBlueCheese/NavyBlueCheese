@@ -16,7 +16,6 @@ with a lot of R, statistical modeling, and regression analysis.
 
 ![Python](https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-475569?style=flat-square&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-475569?style=flat-square&logo=matlab&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-475569?style=flat-square&logo=cplusplus&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-475569?style=flat-square&logo=julia&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-475569?style=flat-square&logo=rust&logoColor=white)
