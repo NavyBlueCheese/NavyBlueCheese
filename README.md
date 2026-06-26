@@ -12,8 +12,6 @@ with a lot of R, statistical modeling, and regression analysis.
 
 ---
 
-### My contribution graph as a snake 🐍
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NavyBlueCheese/NavyBlueCheese/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NavyBlueCheese/NavyBlueCheese/output/github-snake.svg" />
