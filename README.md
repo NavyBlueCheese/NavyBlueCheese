@@ -16,10 +16,13 @@ with a lot of R, statistical modeling, and regression analysis.
 
 ![Python](https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-475569?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-475569?style=flat-square&logo=matlab&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-475569?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-475569?style=flat-square&logo=openjdk&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-475569?style=flat-square&logo=julia&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-475569?style=flat-square&logo=rust&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-475569?style=flat-square&logo=scala&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-475569?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-475569?style=flat-square&logo=typescript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-475569?style=flat-square&logo=latex&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-475569?style=flat-square&logo=pytorch&logoColor=white)
