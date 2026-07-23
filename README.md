@@ -1,7 +1,7 @@
 *Hi, I'm Navy!*
 
-I'm a financial engineering and mathematics student based in Korea.
-My interests are in quantitative finance, FX derivatives, cross-border capital flows,
+I'm a mathematics student based in Korea.
+My interests are in FX derivatives, cross-border capital flows,
 and the quantitative side of trading and derivatives pricing.
 
 Outside of academics, I draw comics and work on graphic design, mostly illustration-based and abstract work.
