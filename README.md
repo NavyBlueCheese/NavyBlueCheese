@@ -1,6 +1,6 @@
 *Hi, I'm Navy!*
 
-I'm a mathematics student based in Korea.
+I'm a mathematics and financial engineering student based in Korea.
 My interests are in FX derivatives, cross-border capital flows,
 and the quantitative side of trading and derivatives pricing.
 
